@@ -28,14 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+    The DOM is a document that presents data that can be manipulated without directly changing the HTML.
+
 2. What is an event?
+
+    Events are actions that occor from user interaction. Or state of change of the elements in the DOM.
 
 3. What is an event listener?
 
+    Event listeners are ways to add a manipulation when a user does something on the page, ex a "click".
+
 4. Why would we convert a NodeList into an Array?
+
+    Because when using methods like querySelector(), it will not work.
 
 5. What is a component?
 
+    Components are reusable pieces of code. They work like regular functions but return HTML.
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
